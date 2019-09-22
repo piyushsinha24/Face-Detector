@@ -1,5 +1,5 @@
 # Face Detection Using Firebase ML-Kit
-<img src>="face_detect.png"
+<img src="face_detect.png" width="250">
 
 A new Flutter project.
 
