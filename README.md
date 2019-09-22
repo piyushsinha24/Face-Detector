@@ -1,4 +1,5 @@
-# flutter_face_detection
+# Face Detection Using Firebase ML-Kit
+<img src>="face_detect.png"
 
 A new Flutter project.
 
