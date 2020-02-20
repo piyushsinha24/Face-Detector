@@ -1,4 +1,7 @@
 # Face Detection Using Firebase ML-Kit
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f592c51ee33846a5924ed7d73e9e88e5)](https://app.codacy.com/manual/piyushsinha24/Face-Detector?utm_source=github.com&utm_medium=referral&utm_content=piyushsinha24/Face-Detector&utm_campaign=Badge_Grade_Dashboard)
+
 <img src="face_detect.png" width="250">
 
 ## Steps
